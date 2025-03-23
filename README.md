@@ -19,6 +19,7 @@ loss function: abs(y - y')
 Optimize b(bias) and w(weight) to minimize loss.
 
 **RAG**
+Architecture of RAG
 ![Architecture](https://github.com/lyoudr/Machine-Learning-Deep-Learning/blob/main/rag.png)
 
 ## Folder Structure

@@ -18,6 +18,8 @@ loss function: abs(y - y')
 
 Optimize b(bias) and w(weight) to minimize loss.
 
+**RAG**
+
 
 ## Folder Structure
 you can find my practices under `/practice` folder
